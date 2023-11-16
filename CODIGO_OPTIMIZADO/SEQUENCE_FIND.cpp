@@ -68,7 +68,7 @@ int main(){
 	
 }
 
-// La búsqueda binaria es un algoritmo eficiente para encontrar un elemento en una lista ordenada de elementos
+// La bÃºsqueda binaria es un algoritmo eficiente para encontrar un elemento en una lista ordenada de elementos
 // Pasos: La busqueda comienza examinando elitem central, dividimos el arreglo, y si el elemento es mayor o menor, se elimina la parte izquierda o derecha, y asi sucesivamente.
 // al programar hay patrones, existe un minimo que necesitamos
 
